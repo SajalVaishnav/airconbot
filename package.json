@@ -1,5 +1,5 @@
 {
-  "name": "nusairconbot",
+  "name": "airconbot",
   "version": "1.0.0",
   "description": "tracks air con credit usage",
   "main": "index.js",
