@@ -19,12 +19,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SajalVaishnav/nusairconbot.git"
+    "url": "git+https://github.com/SajalVaishnav/airconbot.git"
   },
   "author": "sajal",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SajalVaishnav/nusairconbot/issues"
+    "url": "https://github.com/SajalVaishnav/airconbot/issues"
   },
-  "homepage": "https://github.com/SajalVaishnav/nusairconbot#readme"
+  "homepage": "https://github.com/SajalVaishnav/airconbot#readme"
 }
